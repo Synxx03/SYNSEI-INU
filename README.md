@@ -1,0 +1,2 @@
+# SYNSEI-INU
+SYNSEI INU Token
